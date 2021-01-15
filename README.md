@@ -17,8 +17,7 @@
 - 📫 How to reach me **keremkaradenzz@gmail.com**
 
 ## Blogs posts
-### The Project You Must Check Out!
-- 🌟 [React TMDB Firebase Router LocalStorage](https://github.com/ercumentlacin/react-tmdb-firebase-router-localstorage)
+
 
 ### Projects you should look into:
 - [Movie App](https://github.com/keremkaradenzz/movieapp)
