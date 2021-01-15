@@ -21,16 +21,10 @@
 - 🌟 [React TMDB Firebase Router LocalStorage](https://github.com/ercumentlacin/react-tmdb-firebase-router-localstorage)
 
 ### Projects you should look into:
-- [User Authentication with Firebase & React](https://github.com/ercumentlacin/user-authentication-firebase-react)
-- [Node JS User-Authentication](https://github.com/ercumentlacin/User-Authentication)
-- [React Pokemon App](https://github.com/ercumentlacin/pokemon-app)
-- [React Movie App - Tmdb](https://github.com/ercumentlacin/react-movie-app)
-- [React Tweet Component](https://github.com/ercumentlacin/react-tweet-component)
-- [React Card Component](https://github.com/ercumentlacin/react-card-components)
-- [Landing Page](https://github.com/ercumentlacin/landing-page)
-- [User Profile](https://github.com/ercumentlacin/user-profile)
-- [Slider](https://github.com/ercumentlacin/slider-grid)
-- [To Do List](https://github.com/ercumentlacin/toDoList)
+- [Movie App](https://github.com/keremkaradenzz/movieapp)
+- [Crypto Tracker App](https://github.com/keremkaradenzz/crypto-tracker)
+- [Job Listing App ](https://github.com/keremkaradenzz/Job-Listing)
+- [Lotr App ](https://github.com/keremkaradenzz/lotr-app)
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keremkaradenzz&layout=compact&hide=html" alt="ercumentlacin" /></p>
