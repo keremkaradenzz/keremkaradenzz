@@ -22,7 +22,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/keremkaradenzz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin-profile" height="30" width="30"  style="background-color:red" /></a>
+<a href="https://www.linkedin.com/in/keremkaradenzz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin-profile" height="30" width="30"  style="color:red" /></a>
 </p>
 
 ----
