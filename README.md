@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **keremkaradenzz@gmail.com**
 
-## Blogs posts
+## 
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keremkaradenzz&layout=compact&hide=html" alt="ercumentlacin" /></p>
