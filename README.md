@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kerem Karadeniz</h1>
+<h1 align="center">Hi 👋, I'm Software Developer</h1>
 
 
 
@@ -12,18 +12,9 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/keremkaradenzz](https://github.com/keremkaradenzz)
-
 - 📫 How to reach me **keremkaradenzz@gmail.com**
 
 ## Blogs posts
-
-
-### Projects you should look into:
-- [Movie App](https://github.com/keremkaradenzz/movieapp)
-- [Crypto Tracker App](https://github.com/keremkaradenzz/crypto-tracker)
-- [Job Listing App ](https://github.com/keremkaradenzz/Job-Listing)
-- [Lotr App ](https://github.com/keremkaradenzz/lotr-app)
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keremkaradenzz&layout=compact&hide=html" alt="ercumentlacin" /></p>
